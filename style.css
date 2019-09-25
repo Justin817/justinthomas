@@ -4,26 +4,6 @@ html {
 }
 /*the font should be sans-serif*/
 h1{
-  font-family: sans-serif;
-}
-
-
-
-
-/*style of id*/
-#
-
-
-
-
-
-/*style of class */
-.orange-background{
-background-color: firebrick;
-}
-p{
-  text-align: center;
-}
-p{
-  font-size: 30px;
+  background-color: rebeccapurple;
+  font-style: italic;
 }
